@@ -14,8 +14,11 @@ Passionate about building intelligent, scalable systems that bridge creativity a
 
 ## 🚀 Tech Stack
 💻 **Languages:** Python, JavaScript, TypeScript, SQL, Go
-🧠 **AI / ML:** TensorFlow, Scikit-learn, LangChain, Gemini, Hugging Face  
-🌐 **Frontend:** Next.js, React, Shadcn UI, Tailwind CSS  
+
+🧠 **AI / ML:** TensorFlow, Scikit-learn, LangChain, Gemini, Hugging Face
+
+🌐 **Frontend:** Next.js, React, Shadcn UI, Tailwind CSS 
+
 ☁️ **Cloud / Tools:** Firebase, Supabase, Render, Vercel  
 
 ---
